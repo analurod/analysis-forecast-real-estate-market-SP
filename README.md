@@ -2,6 +2,8 @@
 
 Projeto de Ciência de Dados voltado à análise do mercado imobiliário da cidade de São Paulo, utilizando técnicas de análise exploratória, estatística e aprendizado de máquina para compreender os fatores associados aos preços de venda e aluguel de imóveis.
 
+[English Version Here](English.md)
+
 ---
 
 ## 📌 Objetivo
